@@ -36,6 +36,7 @@ This certification provided a strong foundation in Microsoft Power BI, covering 
 
 - `Power BI Certificate.pdf` – Certificate of Completion
 - `README.md` – Certification Overview
+ 
 
 ## 🏅 Achievement
 
